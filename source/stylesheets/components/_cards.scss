@@ -120,3 +120,19 @@
   padding-top: 60px;
   // padding-bottom: 37px;
 }
+
+.video-container {
+  width: 186;
+  height: 400px;
+  background-color: white; /* Set the background to white */
+  display: flex;
+  justify-content: center;
+  outline: 2px solid #606161;
+}
+
+iframe {
+  border: none; /* Remove any default borders */
+  width: 186px;
+  // max-width: 500px; /* Adjust as necessary */
+  // height: 423;
+}
