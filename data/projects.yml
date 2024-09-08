@@ -1,34 +1,41 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: Gremlin Bell
+  description: App for motorcyclist to find the best route before trip and make own route after the trip!
+  role:
+    - Map function with search box using Mapbox API
+    - Landmark function with nested attributes
+    - Saved route function using acts_as_favoritor gem
+
+  skill: Ruby on Rails, Stimulus.js, Bootstrap, HTML, CSS
+  media_type: video
+  media: images/projects/map_vide_trim.mp4
+  url: https://www.gremlin-bell.bike/
+  github: https://github.com/chikasss/gremlin_bell
   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Movie Watchlist
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Airbnb
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Final project
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
+# - name: Yelp
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: false
